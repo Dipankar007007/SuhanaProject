@@ -293,11 +293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Hrmss\\Hrmss\\Hrmss.csproj",
+      "projectUniqueName": "D:\\HrmsProject\\SuhanaProject\\Hrmss\\Hrmss.csproj",
       "projectName": "Hrmss",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\Hrmss\\Hrmss\\Hrmss.csproj",
+      "projectPath": "D:\\HrmsProject\\SuhanaProject\\Hrmss\\Hrmss.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\Hrmss\\Hrmss\\obj\\",
+      "outputPath": "D:\\HrmsProject\\SuhanaProject\\Hrmss\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

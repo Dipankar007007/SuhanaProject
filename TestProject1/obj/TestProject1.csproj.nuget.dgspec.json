@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\Hrmss\\TestProject1\\TestProject1.csproj": {}
+    "D:\\HrmsProject\\SuhanaProject\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\Hrmss\\TestProject1\\TestProject1.csproj": {
+    "D:\\HrmsProject\\SuhanaProject\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Hrmss\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "D:\\HrmsProject\\SuhanaProject\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\Hrmss\\TestProject1\\TestProject1.csproj",
+        "projectPath": "D:\\HrmsProject\\SuhanaProject\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\Hrmss\\TestProject1\\obj\\",
+        "outputPath": "D:\\HrmsProject\\SuhanaProject\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
