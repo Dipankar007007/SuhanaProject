@@ -29,7 +29,10 @@ namespace TestProject1
         {
             TestContext.Progress.WriteLine("Test2 Executed");
         }
-
+        public void Test3()
+        {
+            TestContext.Progress.WriteLine("Test3 Executed");
+        }
         [TearDown]
         public void TearDown()
         {
