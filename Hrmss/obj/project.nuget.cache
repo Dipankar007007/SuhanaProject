@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZAMc5fTM2xJsbctH879F1xh4Srok0tYlb1tfWvh8lTgpKGk+o2yviPunBkVtNzbTW5CV3Cb2kkg4Je1bgsIsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Hrmss\\Hrmss\\Hrmss.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
